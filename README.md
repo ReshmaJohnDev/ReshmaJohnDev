@@ -50,5 +50,5 @@ I’m always looking for opportunities to contribute to impactful, scalable soft
 ---
 
 ### 📫 **How to Reach Me:**
--[Email me](reshma.chackola@gmail.com)
--[Visit my LinkedIn Profile](www.linkedin.com/in/reshma-john-276a3323)
+- [Email me](reshma.chackola@gmail.com)
+- [Visit my LinkedIn Profile](www.linkedin.com/in/reshma-john-276a3323)
