@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Reshma John
 
 I am a passionate **Junior Full-Stack Developer** currently enrolled in a **Certification Program at MasterSchool** to deepen my expertise in building modern web applications. I specialize in both **front-end** and **back-end** technologies, and I am dedicated to crafting scalable, efficient, and impactful solutions.
 
